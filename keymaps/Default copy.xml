@@ -12,6 +12,12 @@
     <keyboard-shortcut first-keystroke="shift d" />
   </action>
   <action id="FileChooser.GotoDesktop" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="RecentFiles">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
