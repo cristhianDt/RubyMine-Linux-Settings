@@ -1,0 +1,14 @@
+<application>
+  <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
+    <group value="Replace" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Editor Popup Menu" />
+      <path value="Editor Popup Menu Actions (1)" />
+      <path value="EditorPopupMenu1.FindRefactor" />
+      <path value="Refactor" />
+      <path value="XML Refactorings" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="Replace" icon="$USER_HOME$/Imágenes/icons/icons/actions/replace.png" />
+  </component>
+</application>
