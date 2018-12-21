@@ -74,7 +74,7 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="RecentFiles">
-    <keyboard-shortcut first-keystroke="shift f" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
