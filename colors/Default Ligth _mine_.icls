@@ -3,7 +3,17 @@
     <property name="created">2018-12-17T16:08:38</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2018-12-17T16:10:46</property>
+    <property name="modified">2018-12-27T19:51:48</property>
     <property name="originalScheme">_@user_Default</property>
   </metaInfo>
+  <attributes>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="73bf" />
+        <option name="BACKGROUND" value="ffff65" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="ERROR_STRIPE_COLOR" value="54aae3" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
