@@ -1,11 +1,10 @@
 <templateSet group="user">
-  <template name="tryRegLogger" value="try {&#10;    $BODY$&#10;} catch (\Exception $exception) {&#10;    $CATCH$&#10;    $logger-&gt;error($exception-&gt;getMessage() $MORE$);&#10;}" description="Crear un try y registrar la Exception en el logger de APL" toReformat="true" toShortenFQNames="true">
+  <template name="try_reg_logger" value="try {&#10;    $BODY$&#10;} catch (\Exception $exception) {&#10;    $CATCH$&#10;    $logger-&gt;error($exception-&gt;getMessage() $MORE$);&#10;}" description="Crear un try y registrar la Exception en el logger." toReformat="true" toShortenFQNames="true">
     <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="CATCH" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="MORE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="PHP Expression" value="true" />
-      <option name="PHP Statement" value="true" />
+      <option name="PHP" value="true" />
     </context>
   </template>
   <template name="try" value="try {&#10;    $BODY$&#10;} catch (\Exception $exception) {&#10;    $CATCH$&#10;}" description="Crear un try." toReformat="true" toShortenFQNames="true">
