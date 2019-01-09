@@ -15,9 +15,6 @@
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
     <option name="KEEP_RPAREN_AND_LBRACE_ON_ONE_LINE" value="true" />
   </PHPCodeStyleSettings>
-  <yaml>
-    <option name="ALIGN_VALUES_PROPERTIES" value="1" />
-  </yaml>
   <codeStyleSettings language="PHP">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
