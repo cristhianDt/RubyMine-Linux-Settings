@@ -4,6 +4,9 @@
     <option name="HTML_TEXT_WRAP" value="0" />
     <option name="HTML_INLINE_ELEMENTS" value="abbr,acronym,b,basefont,bdo,big,br,cite,cite,code,dfn,em,font,img,input,kbd,label,q,s,samp,select,span,strike,strong,sub,sup,textarea,tt,u,var,a,i" />
   </HTMLCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+  </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
     <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
@@ -11,6 +14,9 @@
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
     <option name="PHPDOC_WRAP_LONG_LINES" value="true" />
   </PHPCodeStyleSettings>
+  <yaml>
+    <option name="ALIGN_VALUES_PROPERTIES" value="1" />
+  </yaml>
   <codeStyleSettings language="PHP">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
@@ -19,6 +25,11 @@
   <codeStyleSettings language="Twig">
     <indentOptions>
       <option name="SMART_TABS" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="yaml">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
