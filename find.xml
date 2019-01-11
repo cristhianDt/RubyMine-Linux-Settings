@@ -1,11 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="customScope" value="File '.../web/bundles/owasysstark/js/Crm/Opportunity/histCrm.js [CRM]'" />
+    <option name="defaultScopeName" value="File '.../web/bundles/owasysstark/js/Crm/Opportunity/histCrm.js [CRM]'" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../web/bundles/owasysstark/js/Crm/Opportunity/histCrm.js [CRM]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
