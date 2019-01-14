@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../web/bundles/owasysstark/js/Crm/Opportunity/histCrm.js [CRM]'" />
-    <option name="defaultScopeName" value="File '.../web/bundles/owasysstark/js/Crm/Opportunity/histCrm.js [CRM]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="File '.../web/bundles/owasysstark/js/Crm/Opportunity/histCrm.js [CRM]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,7 +16,7 @@
     <mask>*.php,*.twig</mask>
     <mask>*.twig,*.js</mask>
     <mask>*.js</mask>
-    <mask>*.twig</mask>
     <mask>*.php</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
