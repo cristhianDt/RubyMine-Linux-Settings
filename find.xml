@@ -9,7 +9,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.yml</mask>
     <mask>*.php,*.twig</mask>
@@ -17,5 +16,6 @@
     <mask>*.twig</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.css</mask>
   </component>
 </application>
