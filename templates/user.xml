@@ -49,4 +49,10 @@
       <option name="Twig" value="true" />
     </context>
   </template>
+  <template name="block" value="{% block $NAME$ %}$END${% endblock %}" description="crear un block en Twig" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
 </templateSet>
