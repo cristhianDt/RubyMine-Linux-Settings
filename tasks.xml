@@ -1,0 +1,29 @@
+<application>
+  <component name="TaskStorage">
+    <tasks>
+      <task priority="Important" completed="false" estimated="0" created="1552942399190" actual="258" highlighted="true" highlightingtype="Red" title="Order PDF - custom Design" description="Permiter al administrador modificar/crear su propia presentación del PDF de pedidos.">
+        <task priority="Normal" completed="false" estimated="0" created="1552942752910" actual="258" highlighted="false" highlightingtype="Red" title="Diseño Default para Editar" description="" />
+        <task priority="Questionable" completed="false" estimated="0" created="1552942615526" actual="0" highlighted="false" highlightingtype="Red" title="Crear sección para Editar el Diseño" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1552942472243" actual="0" highlighted="false" highlightingtype="Red" title="Importar Diseño" description="Cargar el diseño ya guardado en DB">
+          <task priority="Normal" completed="false" estimated="0" created="1552942955893" actual="0" highlighted="false" highlightingtype="Red" title="Cargar de la empresa si existe" description="" />
+          <task priority="Normal" completed="false" estimated="0" created="1552942969308" actual="0" highlighted="false" highlightingtype="Red" title="Cargar Default si no hay datos en la empresa" description="" />
+        </task>
+        <task priority="Normal" completed="false" estimated="0" created="1552942487754" actual="0" highlighted="false" highlightingtype="Red" title="Boton de editar" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1552942512710" actual="0" highlighted="false" highlightingtype="Red" title="Boton de guardar" description="" />
+        <task priority="Important" completed="false" estimated="0" created="1552942572108" actual="0" highlighted="false" highlightingtype="Red" title="Bloque Cliente" description="Permitir cargar datos del cliente al cual está asignada la Orden." />
+        <task priority="Important" completed="false" estimated="0" created="1552942583564" actual="0" highlighted="false" highlightingtype="Red" title="Bloque Activo" description="Permitir cargar datos del activo al cual está asignada la Orden." />
+        <task priority="Normal" completed="false" estimated="0" created="1552942698014" actual="0" highlighted="false" highlightingtype="Red" title="Iconos" description="">
+          <task priority="Normal" completed="false" estimated="0" created="1552942704986" actual="0" highlighted="false" highlightingtype="Red" title="Tabla" description="" />
+          <task priority="Normal" completed="false" estimated="0" created="1552942710881" actual="0" highlighted="false" highlightingtype="Red" title="Fila" description="" />
+          <task priority="Normal" completed="false" estimated="0" created="1552942715646" actual="0" highlighted="false" highlightingtype="Red" title="Columnas" description="" />
+          <task priority="Normal" completed="false" estimated="0" created="1552942719787" actual="0" highlighted="false" highlightingtype="Red" title="Cliente" description="" />
+          <task priority="Normal" completed="false" estimated="0" created="1552942723668" actual="0" highlighted="false" highlightingtype="Red" title="Activo" description="" />
+        </task>
+        <task priority="Important" completed="false" estimated="0" created="1552943001687" actual="0" highlighted="false" highlightingtype="Red" title="Sanitize" description="">
+          <task priority="Important" completed="false" estimated="0" created="1552943014904" actual="0" highlighted="false" highlightingtype="Red" title="HTML" description="" />
+          <task priority="Important" completed="false" estimated="0" created="1552943019402" actual="0" highlighted="false" highlightingtype="Red" title="CSS" description="" />
+        </task>
+      </task>
+    </tasks>
+  </component>
+</application>
