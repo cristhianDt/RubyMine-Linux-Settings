@@ -1,8 +1,8 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Important" completed="false" estimated="0" created="1552942399190" actual="258" highlighted="true" highlightingtype="Red" title="Order PDF - custom Design" description="Permiter al administrador modificar/crear su propia presentación del PDF de pedidos.">
-        <task priority="Normal" completed="false" estimated="0" created="1552942752910" actual="258" highlighted="false" highlightingtype="Red" title="Diseño Default para Editar" description="" />
+      <task priority="Important" completed="false" estimated="0" created="1552942399190" actual="2267" highlighted="true" highlightingtype="Red" title="Order PDF - custom Design" description="Permiter al administrador modificar/crear su propia presentación del PDF de pedidos.">
+        <task priority="Normal" completed="false" estimated="0" created="1552942752910" actual="2267" highlighted="false" highlightingtype="Red" title="Diseño Default para Editar" description="" />
         <task priority="Questionable" completed="false" estimated="0" created="1552942615526" actual="0" highlighted="false" highlightingtype="Red" title="Crear sección para Editar el Diseño" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1552942472243" actual="0" highlighted="false" highlightingtype="Red" title="Importar Diseño" description="Cargar el diseño ya guardado en DB">
           <task priority="Normal" completed="false" estimated="0" created="1552942955893" actual="0" highlighted="false" highlightingtype="Red" title="Cargar de la empresa si existe" description="" />
