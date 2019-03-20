@@ -1,9 +1,12 @@
 <application>
   <component name="TaskStorage">
     <tasks>
-      <task priority="Important" completed="false" estimated="0" created="1552942399190" actual="67564" highlighted="true" highlightingtype="Red" title="Order PDF - custom Design" description="Permiter al administrador modificar/crear su propia presentación del PDF de pedidos.">
-        <task priority="Normal" completed="false" estimated="0" created="1552942752910" actual="67564" highlighted="false" highlightingtype="Red" title="Diseño Default para Editar" description="" />
-        <task priority="Questionable" completed="false" estimated="0" created="1552942615526" actual="0" highlighted="false" highlightingtype="Red" title="Crear sección para Editar el Diseño" description="" />
+      <task priority="Important" completed="false" estimated="0" created="1552942399190" actual="0" highlighted="true" highlightingtype="Red" title="Order PDF - custom Design" description="Permiter al administrador modificar/crear su propia presentación del PDF de pedidos.">
+        <task priority="Normal" completed="false" estimated="0" created="1552942752910" actual="0" highlighted="false" highlightingtype="Red" title="Diseño Default" description="">
+          <task priority="Normal" completed="true" estimated="0" created="1553112275250" actual="0" highlighted="false" highlightingtype="Red" title="Diseño Default para Editar Cabecera" description="" />
+          <task priority="Normal" completed="false" estimated="0" created="1553112281639" actual="0" highlighted="false" highlightingtype="Red" title="Diseño Default para Editar Footer" description="" />
+        </task>
+        <task priority="Questionable" completed="true" estimated="0" created="1552942615526" actual="0" highlighted="false" highlightingtype="Red" title="Crear sección para Editar el Diseño" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1552942472243" actual="0" highlighted="false" highlightingtype="Red" title="Importar Diseño" description="Cargar el diseño ya guardado en DB">
           <task priority="Normal" completed="false" estimated="0" created="1552942955893" actual="0" highlighted="false" highlightingtype="Red" title="Cargar de la empresa si existe" description="" />
           <task priority="Normal" completed="false" estimated="0" created="1552942969308" actual="0" highlighted="false" highlightingtype="Red" title="Cargar Default si no hay datos en la empresa" description="" />
