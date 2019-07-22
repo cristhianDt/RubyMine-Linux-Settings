@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="web" />
-    <option name="defaultScopeName" value="web" />
-    <option name="SEARCH_SCOPE" value="web" />
+    <option name="customScope" value="AppBundle" />
+    <option name="defaultScopeName" value="AppBundle" />
+    <option name="SEARCH_SCOPE" value="AppBundle" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
