@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Bundle,Resources,Owasy" />
+    <option name="defaultScopeName" value="Bundle,Resources,Owasy" />
+    <option name="SEARCH_SCOPE" value="Bundle,Resources,Owasy" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -13,9 +13,9 @@
     <mask>*.php,*.twig</mask>
     <mask>*.twig,*.js</mask>
     <mask>*.css</mask>
-    <mask>*.twig</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
+    <mask>*.twig</mask>
   </component>
 </application>
