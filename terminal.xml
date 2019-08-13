@@ -1,5 +1,8 @@
 <application>
   <component name="TerminalOptionsProvider">
+    <envs>
+      <env key="ruby" value="$USER_HOME$/.rvm/rubies/ruby-2.6.3/bin/ruby" />
+    </envs>
     <option name="myTabName" value="Linux shell" />
   </component>
 </application>
