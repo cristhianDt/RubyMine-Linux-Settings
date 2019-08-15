@@ -27,6 +27,9 @@
           <task priority="Important" completed="true" estimated="0" created="1552943019402" actual="0" highlighted="false" highlightingtype="Red" title="CSS" description="" />
         </task>
       </task>
+      <task priority="Important" completed="false" estimated="0" created="1565890101154" actual="0" highlighted="false" highlightingtype="Red" title="RoR Banco de Bogota" description="">
+        <task priority="Normal" completed="false" estimated="0" created="1565890123340" actual="0" highlighted="false" highlightingtype="Red" title="Crear Log Model" description="def initialize(r)&#10;@radius = r&#10;end  " />
+      </task>
     </tasks>
   </component>
 </application>
