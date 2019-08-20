@@ -96,4 +96,22 @@
       <option name="RHTML" value="true" />
     </context>
   </template>
+  <template name="ifelsif" value="if $F_COND$&#10;  $C_F_COND$&#10;elsif $S_COND$&#10;  $C_S_COND$&#10;else &#10;  $E_COND$&#10;end" description="RoR - if else if for .rb file" toReformat="true" toShortenFQNames="true">
+    <variable name="F_COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="C_F_COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="S_COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="C_S_COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="E_COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY_CODE" value="true" />
+    </context>
+  </template>
+  <template name="if ruby" value="if $F_COND$&#10;  $C_F_COND$&#10;else&#10;  $E_COND$&#10;end" description="RoR - if for .rb file" toReformat="true" toShortenFQNames="true">
+    <variable name="F_COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="C_F_COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="E_COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="RUBY_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
