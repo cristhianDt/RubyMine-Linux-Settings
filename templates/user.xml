@@ -88,7 +88,7 @@
       <option name="RHTML" value="true" />
     </context>
   </template>
-  <template name="for" value="&lt;% $ARRAY$.each do |$KEY$, $VALUE$| %&gt;&#10;  &lt;%= f %&gt;&#10;&lt;% end %&gt;" toReformat="false" toShortenFQNames="true">
+  <template name="for" value="&lt;% $ARRAY$.each do |$KEY$, $VALUE$| %&gt;&#10;  &lt;%= f %&gt;&#10;&lt;% end %&gt;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="ARRAY" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="VALUE" expression="" defaultValue="" alwaysStopAt="true" />
